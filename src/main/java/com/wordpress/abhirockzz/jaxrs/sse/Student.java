@@ -25,7 +25,7 @@ public class Student {
 
     @Override
     public String toString() {
-        return "Employee{" + "email=" + email + ", name=" + name + '}';
+        return "Student{" + "email=" + email + ", name=" + name + '}';
     }
     
     
